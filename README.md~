@@ -3,7 +3,7 @@ RDSMySqlLogShipper
 
 Ships logs from RDS mysql to a configurable recipient.
 
-To run this script, run the file called Runner.py with a command line argument which is the path to the yaml configuration file.
+To run this script run the file called Runner.py.
 This can be done as python Runner.py <path to yaml config file>
 
 A test yaml config file is given below:
