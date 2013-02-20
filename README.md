@@ -7,7 +7,8 @@ To run this script, run the file called Runner.py with a command line argument w
 This can be done as follows
 >>python Runner.py [path to yaml config file]
 
-A test yaml config file is given below:
+A sample yaml config file is given below:
+
 <pre>
 input:
   mysql:
