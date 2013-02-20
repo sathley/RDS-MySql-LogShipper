@@ -16,7 +16,7 @@ output:
     port: redis_port
     key: redis_list_key
   file:
-    path: /home/sathley/Public/logs/mysql_logs_rds.log
+    path: /home/john_doe/Public/logs/mysql_logs_rds.log
   rabbitmq:
     name: exchange_name
     hostname: my_amqp_server
